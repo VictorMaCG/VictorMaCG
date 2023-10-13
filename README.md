@@ -1,7 +1,7 @@
 <p align='center'>
 </a>&nbsp;&nbsp;   
 <a href="https://twitter.com/ViiKz_"><img height="64" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/viictoor.02"><img height="64" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-256.png"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/vxctor.cg"><img height="64" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-256.png"></a>&nbsp;&nbsp;
 </p>  
 
 ### Hello there! 👋
